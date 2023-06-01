@@ -15,3 +15,22 @@ Welcome to the repository of DDoc, a revolutionary Web3 project that operates on
 **Automated Daily ROI with OpenZeppelin Defender**: We use OpenZeppelin Defender to automate the daily ROI calculation, ensuring accurate and timely returns for our users.
 
 **ReactJS and Hardhat Framework**: Built with the latest web development frameworks such as ReactJS and Hardhat, the platform delivers high performance and a user-friendly interface. This makes it easy for users to navigate the platform, access various features, and interact with the network effortlessly.
+
+## Success Metrics
+The success of DDoc can be measured through various factors:
+
+1. User Adoption: The number of users who adopt and regularly use the platform.
+
+2. ROI: The return on investment that the platform generates for its investors.
+
+3. Network Activity: The level of activity on the Polygon network due to the operations of the platform.
+
+4. Sustainability: The growth and long-term sustainability of the project.
+
+## Built With
+1. React
+2. Hardhat
+3. Web3.js
+4. Polygon
+5. OpenZeppelin Defender
+6. Surya
