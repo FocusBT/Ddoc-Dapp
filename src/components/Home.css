@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-image: url(./images/background.png);
+  background-position: center;
+  background-size: cover;
+  padding: 0 8%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* .launch-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.description {
+  margin-top: 80px;
+  padding: 0 20px;
+  text-align: center;
+}
+  
+    .description h1 {
+      font-size: 36px;
+      font-weight: bold;
+      margin-bottom: 20px;
+    color: white;
+    text-transform: uppercase;
+      letter-spacing: 2px;
+}
+  
+    .description p {
+      font-size: 18px;
+      line-height: 1.5;
+      margin-bottom: 20px;
+      color: white;
+    }
+    .social-icons a:not(:last-child) {
+      margin-right: 20px;
+    }
+
+    .social-icons {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+  
+    .social-icons a {
+      margin: 0 10px;
+    }
+  
+    @media (max-width: 768px) {
+      .launch-page {
+        height: 150vh;
+      }
+  
+      .description {
+        padding: 0 10px;
+      }
+  
+      .social-icons {
+        flex-wrap: wrap;
+      }
+  
+      .social-icons a {
+        margin: 10px 0;
+      }
+    }
+     */

@@ -1,0 +1,82 @@
+.client-main-div div {
+    animation: slide-in 1s ease-in-out 0s 1 forwards;
+    justify-content: center;
+}
+
+h2 {
+    /* font-family: 'Roboto', sans-serif; */
+    font-size: 48px;
+    text-shadow: 12px 5px 5px rgb(0 0 0 / 50%);
+    font-variant: small-caps;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+h5{
+    
+    text-shadow: 12px 5px 5px rgb(0 0 0 / 50%);
+    font-variant: small-caps;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.client-inner-div{
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+    background-color: #bdd2f4;
+}
+
+
+
+.client-upgrade-package button:hover{
+    border:2px solid #002D74;    
+}
+
+.upgrade-package-submit-button{
+    
+    box-shadow: inset black 0px 0px 3px 0px;
+    color:white;
+    font-weight: 600;
+    background-color: #002D74;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+}
+@keyframes slide-in {
+    from {
+        transform: translateX(-100%);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+}
+.client-upgrade-package {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.client-upgrade-package button {
+    border: 2px solid;
+    background-color: #bdd2f4;
+    box-shadow: black 12px 14px 20px;
+    flex: 1;
+    margin: 5px;
+}
+
+@media (max-width: 768px) {
+    .client-upgrade-package button {
+        font-size: 14px;
+        padding: 10px 15px;
+        margin: 5px;
+    }
+
+    h2 {
+        font-size: 28px;
+
+    }
+}

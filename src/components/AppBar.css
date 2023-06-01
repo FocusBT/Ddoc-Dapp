@@ -1,0 +1,13 @@
+* {
+  color: "black";
+}
+.logo123 {
+  /* border: 1px solid black; */
+  width: 70px;
+}
+@media (max-width: 768px) {
+  .logo123 {
+    width: 140px;
+  }
+
+}
