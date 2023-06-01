@@ -1,4 +1,10 @@
 # DDoc: A ROI Based DeCentralized Web-Application
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FocusBT/Ddoc-Dapp/blob/d713fa0f3ad9808ea642b516c177a2a87d805457/public/02.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/FocusBT/Ddoc-Dapp/blob/d713fa0f3ad9808ea642b516c177a2a87d805457/public/02.png">
+ <img alt="P2P Betting Logo" src="[https://github.com/FocusBT/P2P-Betting-Dapp/blob/6a3c490ff82e19fcde0284e98dfaecc655576df1/src/assets/1.png](https://github.com/FocusBT/Ddoc-Dapp/blob/d713fa0f3ad9808ea642b516c177a2a87d805457/public/02.png)">
+</picture>
+
 
 ## Overview:
 Welcome to the repository of DDoc, a revolutionary Web3 project that operates on the Polygon blockchain. The platform has been meticulously designed to offer stable income streams to users while providing a multitude of ways to earn via a unique ROI-based system. The website is fully equipped with web3 technologies, aiming to deliver an effortless user experience for both newcomers and seasoned investors.
